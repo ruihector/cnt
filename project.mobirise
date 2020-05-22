@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.2",
     "siteFonts": [],
-    "uniqCompNum": 160,
+    "uniqCompNum": 161,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true
